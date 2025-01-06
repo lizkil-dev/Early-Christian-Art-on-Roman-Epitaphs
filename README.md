@@ -82,14 +82,6 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
    - Filter data: `python keyword_filter_regex.py`
    - Analyze data: `python keyword_analysis.py`
 
-## Notes
-- **Deprecated File**: `keyword_filter_stanza.py` was replaced with `keyword_filter_regex.py` due to performance issues.
-- **EDH Data**: The accuracy of the analysis relies on the quality of free-text descriptions in the EDH database.
-
-## Future Directions
-- Enhance keyword detection with machine learning models to improve accuracy.
-- Extend the analysis to other funerary contexts (e.g., Roman catacombs, sarcophagi).
-- Compare results with textual content on epitaphs to identify correlations between text and imagery.
 
 
 
