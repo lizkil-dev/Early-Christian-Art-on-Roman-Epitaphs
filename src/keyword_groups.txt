@@ -1,0 +1,14 @@
+Symbole: Kreuz, Christusmonogramm, Christogramm, Staurogramm, Ω, ω, Alpha, Omega
+Bibelszenen: Lazarus, Jonas, Noah, Daniel, Löwengrube, Moses, Arche, Samariterin, Adam, Eva, Paulus, Petrus
+Personen: Hirte, Schuster, Schäfer, Schafträger, Lammträger, Handwerker, Zimmermann, Maurer, Schmied, Bäcker, Orans, Orantin, Soldat, Jäger, Reiter, Krieger
+Werkzeug: Werkzeug, Webrahmen, Hammer, Säge, Amboss, Zange, Blasebalg, Ascia, Dolabra, Messer, Beil, Meßlatte, Messlatte, Meißel, Schuhwerk, Sandale, Scheffel, Waage, Winkelmaß, Lot, Hacke
+Tiere: Hahn, Henne, Pfau, Gans, Ente, Hase, Lamm, Schaf, Ziege, Bock, Hund, Pferd, Hirsch, Schwein, Stier, Kuh, Esel, Löwe, Schmetterling
+Fische: Fisch, Delphine, Delfin, Delphin, Delfine
+Vögel: Vogel, Vögel, Taube
+Pflanzen: Zweig, Ölzweig, Olivenbaum, Olivenast, Baum, Palme, Pflanze, Weinstock, Weinrebe, Weinreben, Blume, Gewächs, Rebe
+Kränze&Girlanden: Girlande, Lorbeer, Weinranke, Efeuranke, Ranke, Kranz, Lorbeerkranz, Palmblatt, Palmette
+Gefäße: Gefäß, Glas, Fass, Amphore, Schlauch, Krater, Kantharos, Kantharoi, Füllhorn, Krug, Becher, Vase
+Gegenstände: Kathedra, Korb, Rassel, Feder, Schreibfeder, Schriftrolle, Reifen, Lyra, Zitter, Orgel, Instrument
+Brot&Früchte: Frucht, Obst, Apfel, Brot, Traube
+Nautik: Schiff, Anker, Dreizack, Leuchtturm, Segel, Boot, Ruder
+Himmelskörper: Sonne, Mond, Halbmond, Stern, Wolke

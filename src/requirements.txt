@@ -1,0 +1,9 @@
+pandas
+geopandas
+stanza
+requests
+seaborn
+matplotlib
+plotly
+json
+re
