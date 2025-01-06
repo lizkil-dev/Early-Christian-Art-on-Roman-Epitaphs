@@ -63,7 +63,7 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
     - Maps motifs to their geographical find spots. Visualizes the geographical distribution of the most common motifs using world maps, with separate maps for finds before and after 350 CE.
 
 4. **Results**
-    For a discussion of the results see 'results.pdf'
+    For a discussion of the results see `Abstract.pdf`
 
 ## Setup Instructions
 1. **Clone the Repository**
