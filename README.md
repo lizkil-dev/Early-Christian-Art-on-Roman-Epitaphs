@@ -9,7 +9,7 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
 
 ## Data Sources
 - **Epigraphic Database Heidelberg (EDH)**: Provides Latin and bilingual (Latin-Greek) inscriptions of the Roman Empire.
-- **Keyword List**: Derived from a PhD study on figural depictions on "loculus-slabs" found in early-christian catacombs in Rome (https://archiv.ub.uni-marburg.de/diss/z2012/0956/pdf/dee.pdf). I used this study as a reference because the type of monument discussed in the PhD is similar to roman epitaphs found in other funerary contexts outside the catacombs. The loculus-slabs fall within the same timeframe I want to explore and most importantly are definitively identified as christian, therefore making it an excellent source for comparison and keyword generation.
+- **Keyword List**: Derived from a PhD study on figural depictions on "loculus-slabs" found in early-christian catacombs in Rome (https://archiv.ub.uni-marburg.de/diss/z2012/0956/pdf/dee.pdf). 
 
 
 ## Project Files
@@ -43,8 +43,7 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
    - Use `api_client.py` to query the EDH API and download relevant data. The fetched dataset is stored in `results.json`
 
 2. **Data Cleaning and Keyword Filtering**
-   Initially, I planned to use OpenRefine for data cleaning, but due to the dataset's size, it proved inefficient. Instead, I handled everything in the `keyword_filter_regex.py` script, utilizing Python libraries like Pandas and Stanza.
-   Key Features of keyword_filtering.py:
+    Key Features of `keyword_filter_regex.py`:
     - Loading the Dataset: Reads the results.json file and converts it into a Pandas DataFrame.
     - Filtering: Excludes pagan entries and rows without commentary text.
     - Keyword Matching: Loads a list of keywords from `keywords.txt` and creates regex patterns to match variations of these keywords in the commentary text. Uses Stanza NLP for lemmatization to standardize variations of words.
@@ -63,7 +62,7 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
     - Maps motifs to their geographical find spots. Visualizes the geographical distribution of the most common motifs using world maps, with separate maps for finds before and after 350 CE.
 
 4. **Results**
-    For a discussion of the results see `Abstract.pdf`
+    For a discussion of the results see `ProjectSummary.pdf`
 
 ## Setup Instructions
 1. **Clone the Repository**
