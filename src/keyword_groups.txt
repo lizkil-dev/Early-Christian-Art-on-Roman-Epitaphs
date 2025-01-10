@@ -1,4 +1,4 @@
-Symbole: Kreuz, Christusmonogramm, Christogramm, Staurogramm, Ω, ω, Alpha, Omega
+Symbole: Kreuz, Christusmonogramm, Christogramm, Staurogramm, Alpha & Omega
 Bibelszenen: Lazarus, Jonas, Noah, Daniel, Löwengrube, Moses, Arche, Samariterin, Adam, Eva, Paulus, Petrus
 Personen: Hirte, Schuster, Schäfer, Schafträger, Lammträger, Handwerker, Zimmermann, Maurer, Schmied, Bäcker, Orans, Orantin, Soldat, Jäger, Reiter, Krieger
 Werkzeug: Werkzeug, Webrahmen, Hammer, Säge, Amboss, Zange, Blasebalg, Ascia, Dolabra, Messer, Beil, Meßlatte, Messlatte, Meißel, Schuhwerk, Sandale, Scheffel, Waage, Winkelmaß, Lot, Hacke

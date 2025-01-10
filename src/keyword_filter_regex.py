@@ -68,7 +68,8 @@ baseform_mapping = {
     "Weinrank": "Weinranke", 
     "Zang": "Zange", 
     "Zimmermanns": "Zimmermann", 
-    "Olivenbaums": "Olivenbaum"
+    "Olivenbaums": "Olivenbaum", 
+    "Olivenbaumes": "Olivenbaum"
 }
 
 # Load keyword groups from external file
@@ -167,4 +168,4 @@ with open('data/filtered_data.json', 'w', encoding='utf-8') as f:
     json.dump(filtered_data, f, ensure_ascii=False, indent=2)
 
 # Save to CSV
-filtered_df.to_csv('data/filtered_data.csv', index=False)
+# filtered_df.to_csv('data/filtered_data.csv', index=False)
