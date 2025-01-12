@@ -3,9 +3,8 @@ This project was developed as part of the 2024 course 'Computational literacy fo
 
 ## Project Overview
 This project examines figural decoration on early Christian epitaphs to understand whether a distinct Christian iconography emerges in this context. What kind of figural decoration can be found on early Christian epitaphs? Is there a Christian iconography similar to early Christian art in other funerary contexts (e.g., Roman catacombs, late Roman sarcophagi)?
-(For a short introduction into the develompent and timeframe of early christian art see: https://www.britannica.com/art/Early-Christian-art)
 
-The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusing on inscriptions labeled as Christian. Since the EDH does not categorize figural representations, the project employs keyword-based searches to identify relevant descriptions from the free-text commentary section. 
+The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**. Since the EDH does not categorize figural representations, the project employs keyword-based searches to identify relevant descriptions from the free-text commentary section. 
 
 ## Data Sources
 - **Epigraphic Database Heidelberg (EDH)**: Provides Latin and bilingual (Latin-Greek) inscriptions of the Roman Empire.
@@ -25,7 +24,7 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
 2. **`filtered_data.json`**: JSON version of the filtered data.
 3. **`results.json`**: Final results of the data analysis.
 
-### Configuration Files
+### Reference Files
 1. **`keywords.txt`**: A list of keywords used for identifying figural elements in free-text descriptions.
 2. **`keyword_groups.txt`**: Categorized groups of keywords (e.g., biblical scenes, symbols, other motifs).
 
@@ -36,6 +35,9 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
 - **`__init__.py`**: Marks the directory as a Python module.
 - **`mapdata/`**: Directory for storing files that help mapping the geographical distribution of figural depictions downloaded from https://www.naturalearthdata.com
 - **`__pycache__/`**: Directory containing compiled Python files.
+
+### Results
+- **`results/`**: Directory for storing the files that show and discuss the results of the research: **`graphs/`** contains different graphs visualizing the data and **`Project_Summary.pdf`** discusses the work on the project and its results.
 
 ## Workflow
 
@@ -62,7 +64,7 @@ The analysis uses data from the **Epigraphic Database Heidelberg (EDH)**, focusi
     - Maps motifs to their geographical find spots. Visualizes the geographical distribution of the most common motifs using world maps, with separate maps for finds before and after 350 CE.
 
 4. **Results**
-    For a discussion of the results see `ProjectSummary.pdf`
+    For a discussion and visualisation of the results see `results/`.
 
 ## Setup Instructions
 1. **Clone the Repository**
